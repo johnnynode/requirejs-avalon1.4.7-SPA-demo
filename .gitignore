@@ -1,0 +1,7 @@
+.tmp
+*.tmp
+.idea
+.DS_Store
+dist/
+js/global.js
+node_modules
